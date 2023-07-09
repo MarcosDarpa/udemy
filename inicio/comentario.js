@@ -6,5 +6,15 @@ console.log('Passo #02');
 console.log('Passo #03');  //Mais um exemplo de console.log!
 
 /*
-Esse é um comentário de várias linhas no JS
+Esse é um comentário 
+de várias 
+linhas no JS
+*/
+
+
+/*
+*   
+*
+*
+*
 */
